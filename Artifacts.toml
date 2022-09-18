@@ -1,0 +1,288 @@
+[[CUDD]]
+arch = "aarch64"
+git-tree-sha1 = "776b2b445eb0335631c4db527f685e5e0d163c93"
+os = "macos"
+
+    [[CUDD.download]]
+    sha256 = "c46c13defa25612c26ddb6c6af7851001d36dafae7fa443d3d51fabf9af23652"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.aarch64-apple-darwin.tar.gz"
+[[CUDD]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c3cb450c760894a0b6e58bca9d06c0ababf9664d"
+libc = "glibc"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "6d7087b8e37157f0b14c27cef32a83fa59ceebfd91dbac14e0ba8357352f8fe2"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[CUDD]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b88cb6961ecf3a13ca5ca5e73d4ef4ae2acae6eb"
+libc = "glibc"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "f3966b7bfa736745bd46ec4f89a2f17dbd12b68b6b3a56100cd989a2378ee70c"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[CUDD]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a4e94d1263bc9828d0a5c446c28600fcf4b2e725"
+libc = "musl"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "8df4b842ccd2ff901fad50f74e24e9f055b86548b33a87827ebe2d0af1859a04"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[CUDD]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "94c6deeef229043ef48fb36afc63b4e79933a352"
+libc = "musl"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "deaaa6839293ebe5645336a607f1cfcf7966ac825e742180c2bbc22d2385d4d4"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[CUDD]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "86b9559eb4ca43a0baec2bab5264395af6a4baa7"
+libc = "glibc"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "78e5dd3b3f1ecef487c59dc09e5981573eedb2afc5e5fa036b9076e449552936"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[CUDD]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c62df87f791d382f46b5b6d48af4713163baf199"
+libc = "glibc"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "3235ca285902eb9df3260b980fe5b4e6174aef6539fc67ddcb2172ae7d4449e4"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[CUDD]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "acd2f3631f263a99ce3ba726c2ed4d1f17166803"
+libc = "musl"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "468de71b9f58eaa764f6929d42149b0d165936f0353829a24acb7b612f0e2f86"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[CUDD]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0a51837e0bf884a6213ad3abefcbf4df3f022209"
+libc = "musl"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "de01f24f49e5b3d680956a541971db7d8226b7e57769bf2893c18c8b11ae94ac"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[CUDD]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4a8f80ce4c7a2c9e81408f72a46506495fca5540"
+libc = "glibc"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "0e66432b5db16cd3b2ac76a90dfec31f614447eb46896efd9c744e69b6ac376d"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[CUDD]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "037b8d4e8918e6fe3d6841182022e09a5c73e877"
+libc = "glibc"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "37b12bcf3f0268f286a3c17655fe8d451072c2d3c3ae998d8f88255c5c097d32"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[CUDD]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ed31868610ffc8a873023cdf89da14236277e0ca"
+libc = "musl"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "e3a94025ae5ea613cbcd1feacf50247c0e2cae927b0acb2fb9d534ef6a233b5e"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[CUDD]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "016e9de2d0eb415d8e36d8875c7fc1ed24247c1c"
+libc = "musl"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "30f69ba9da7e9adc3cb97b4e2f2e73852fa9ad6c0a4f153b72b7005fbd65e45e"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[CUDD]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0bfa867729db3d5794d8d8d7b82defd81121d2ca"
+libc = "glibc"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "b4d3ca5b0741530d076bef8a19479d238d6c871df8cf112b88e786507c976e75"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[CUDD]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "02b7aef23dbd963d7be0186932d9ed63f23c1b42"
+libc = "glibc"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "fc8bd4afc64aac498636ba53059cc1f0d153e5457e920b2ff6276ad2e415b5f8"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[CUDD]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "45eaaa80b9eee276ebd18dd130a37f22eb48938c"
+libc = "musl"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "aa15840eaa8fe0b671e7499d5df025861d2b50a7ca779b9b73629e543ab882c4"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.i686-linux-musl-cxx03.tar.gz"
+[[CUDD]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "da7babecc00c3dd62a610a81150ef150b1766f02"
+libc = "musl"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "976c5cc8c4b6de0639f583eca0988875b955b0a99b551eed929f2d43eded272e"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.i686-linux-musl-cxx11.tar.gz"
+[[CUDD]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9c735384c854622d9b46316fb612743c246c7261"
+os = "windows"
+
+    [[CUDD.download]]
+    sha256 = "77963ed45e2440c7baebba6c234c2017f1a39b50e6b5b660242cef2f2d861a7c"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[CUDD]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0fa5319de729c5767677d322f3b91e7bb5e50608"
+os = "windows"
+
+    [[CUDD.download]]
+    sha256 = "358bdd33fa754e4572df02c1857072a0782bfe0d11a1fc5b90ff71a528818590"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[CUDD]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f89c0284a466d477511a5245ee6214e0e1a989cf"
+libc = "glibc"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "af96272de26fe06828db1507c9dc9eaf0b347d6bb3dc41bd383b85374ab66f8e"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[CUDD]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8a1e619c7b19a2db37df04a061d749f1e4b5d6bf"
+libc = "glibc"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "571bd6c88b1fc59572d77fa13b1398027415f206b2798fb987046ba38316ccc7"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[CUDD]]
+arch = "x86_64"
+git-tree-sha1 = "7e3de68511eed17566162f243d952184db5559d8"
+os = "macos"
+
+    [[CUDD.download]]
+    sha256 = "608fdd820a91df05203e3e60a7b06f276a0c6a212c86f29642dbf4eb4cacdb63"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.x86_64-apple-darwin.tar.gz"
+[[CUDD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e3c9b6189d34f11947ce3308c70d9b494e478919"
+libc = "glibc"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "d5c340ec56823da845cf2a68b0195e7844adeaa06a8d662764090667eaffe60b"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[CUDD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "648f8951a353da51426880651652b9219614870a"
+libc = "glibc"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "4394d64f14affaaf3ab5185e0299332897e1058a2dc86f2d7c2ec8ebefc0412c"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[CUDD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2749db36cf78700e0a5690fbdab945e3223f0490"
+libc = "musl"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "1bccbc04e68e8459ee81b1bc7d7abdc6ffe13b4f000c8e7ce8b2e9d66bffc040"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[CUDD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "095095c965c3cbdb76f9ae8f74635ef495fd084e"
+libc = "musl"
+os = "linux"
+
+    [[CUDD.download]]
+    sha256 = "e3310371f9badceff6606543f51aa958b953a4538ad576ff13a784da3d917c3e"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[CUDD]]
+arch = "x86_64"
+git-tree-sha1 = "5bae119954e10079e7f8e4d61990b1fd9e4779dd"
+os = "freebsd"
+
+    [[CUDD.download]]
+    sha256 = "6448f6c9b9a1b7acc67f66ba25a7e4002cd03250250b19f275e0acf3e4e89cf8"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.x86_64-unknown-freebsd.tar.gz"
+[[CUDD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "15a8c0c272989587d9db1019cd0d401029839309"
+os = "windows"
+
+    [[CUDD.download]]
+    sha256 = "f64c7fcf74b2500031e1ae7332d9778cc3c76608b4d7cd38ae9439136c55ff69"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[CUDD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1033e8b07e3172ff9dcbe5a724f2233254cc24bd"
+os = "windows"
+
+    [[CUDD.download]]
+    sha256 = "4620e016f99fa0fb0d81750677ab5b7c5a2c4fe28120d5cf84a04d258a494a92"
+    url = "https://github.com/JuliaBinaryWrappers/CUDD_jll.jl/releases/download/CUDD-v3.0.0+0/CUDD.v3.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
